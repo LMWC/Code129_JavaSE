@@ -22,7 +22,6 @@ public class ElectricalAppliance {
     }
 
     //getter & setter
-
     public String getBrand() {
         return brand;
     }
