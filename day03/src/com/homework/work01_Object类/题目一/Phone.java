@@ -32,7 +32,6 @@ public class Phone {
     }
 
     //getter & setter
-
     public String getBrand() {
         return brand;
     }

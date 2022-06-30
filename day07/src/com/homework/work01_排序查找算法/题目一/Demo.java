@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Demo {
     public static void main(String[] args) {
+
         //定义以下数组：
         int[] arr = {1,2,432,32,54,32,3,7,657,563,25,43,6,463,52};
         //用Arrays类打印此数组的所有元素；

@@ -25,7 +25,6 @@ public abstract class Employee {
     public abstract void work();
 
     //getter & setter
-
     public String getName() {
         return name;
     }

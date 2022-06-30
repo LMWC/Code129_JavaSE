@@ -6,6 +6,7 @@ import java.util.Comparator;
 
 public class Demo {
     public static void main(String[] args) {
+
         //定义一个可以存储“整数”的集合，并存储一些数据。
         ArrayList<Integer> list = new ArrayList<>();
         Collections.addAll(list,1,2,3,4,5,6,7,8,9);

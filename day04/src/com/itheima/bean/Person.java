@@ -1,6 +1,7 @@
 package com.itheima.bean;
 
 public abstract class Person {
+
     private String id;
     private String name;
     private String birthday;//xxxx-xx-xx

@@ -8,7 +8,6 @@ public class H11 {
         // 也可以将 \\ 替换为 /
         File file1 = new File("d:\\test1.txt");
         File file2 = new File("d:\\测试目录");
-
         // 1. 获取打印file1和file2的绝对路径
         System.out.println("file1 的绝对路径："+file1.getAbsolutePath());
         System.out.println("file2 的绝对路径："+file2.getAbsolutePath());

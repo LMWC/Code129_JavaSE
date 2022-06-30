@@ -14,6 +14,7 @@ public class Demo {
         for (int i = 0; i < 10; i++) {
             Thread window = new Thread(ticketHall, "t" + i);
             ticketWindows.add(window);
+
             // 启动线程
             window.start();
         }

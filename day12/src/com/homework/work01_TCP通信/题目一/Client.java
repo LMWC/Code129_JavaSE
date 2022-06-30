@@ -6,6 +6,7 @@ import java.net.Socket;
 public class Client {
 
     public static void main(String[] args) throws Exception {
+
         //创建Socket，连接本机的8888端口（也就是服务端）
         Socket socket = new Socket("127.0.0.1", 8888);
 
