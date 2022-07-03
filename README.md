@@ -1,5 +1,5 @@
 # Code129_JavaSE
-**Code129_JavaSE**  
+**Code129_JavaSE学习代码**  
 [**day01-封装复习、继承、final**](https://github.com/LMWC/Code129_JavaSE/tree/master/day01/src/com)  
 [**day02-static、接口、多态、内部类、自定义类应用**](https://github.com/LMWC/Code129_JavaSE/tree/master/day02/src/com)  
 [**day03-权限修饰符、代码块、常用API、包装类**](https://github.com/LMWC/Code129_JavaSE/tree/master/day03/src/com)  
